@@ -1,0 +1,5 @@
+This is a holder stuck to the side of my 3D Printer for an [SD to MicroSD adapter](https://www.amazon.com/dp/B01D9JIUU0).  I use a the adapter to make the [Toshiba FlashAir III](https://www.amazon.com/dp/B00UOYPZP2) WiFi SD card work with my [MonoPrice Select Mini](http://www.monoprice.com/product?p_id=15365) (using [RJ_Make's idea](https://www.youtube.com/watch?v=dYEOd-V7MHk])).
+
+Authored in [OpenSCAD](http://www.openscad.org/downloads.html).  RJ_Make [made one of these](https://www.youtube.com/watch?v=4nQLcwv-_4E) but I wanted to print one quick more than I wanted to take the time to follow along with [Fusion 360](http://www.autodesk.com/products/fusion-360/overview) that he uses in his video.
+
+I'm using a small [poster command strip](https://www.amazon.com/dp/B001KYSAN4) to hold it to the side of my printer. 
